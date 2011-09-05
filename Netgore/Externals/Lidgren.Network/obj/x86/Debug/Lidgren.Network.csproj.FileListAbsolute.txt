@@ -1,5 +1,0 @@
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\Externals\Lidgren.Network\bin\x86\Debug\Lidgren.Network.dll
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\Externals\Lidgren.Network\bin\x86\Debug\Lidgren.Network.pdb
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\Externals\Lidgren.Network\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\Externals\Lidgren.Network\obj\x86\Debug\Lidgren.Network.dll
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\Externals\Lidgren.Network\obj\x86\Debug\Lidgren.Network.pdb

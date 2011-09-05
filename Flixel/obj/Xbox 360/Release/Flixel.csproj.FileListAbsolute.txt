@@ -1,2 +1,0 @@
-C:\Users\Keith\Dropbox\Sandbox Games\Flixel\obj\Xbox 360\Release\ResolveAssemblyReference.cache
-C:\Users\Keith\Dropbox\Sandbox Games\Flixel\obj\Xbox 360\Release\Microsoft.Xna.Framework.RuntimeProfile.txt

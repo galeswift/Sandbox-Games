@@ -1,6 +1,0 @@
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem.CustomTool.dll.config
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem.CustomTool.dll
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem.CustomTool.pdb
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem.CustomTool\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem.CustomTool\obj\Release\Xen.Graphics.ShaderSystem.CustomTool.dll
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem.CustomTool\obj\Release\Xen.Graphics.ShaderSystem.CustomTool.pdb

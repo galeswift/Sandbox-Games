@@ -1,9 +1,0 @@
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xen.Graphics.ShaderSystem\registry\XenFxRegistrySetup.exe.config
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xen.Graphics.ShaderSystem\registry\XenFxRegistrySetup.exe
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xen.Graphics.ShaderSystem\registry\XenFxRegistrySetup.pdb
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\XenFxRegistrySetup\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\XenFxRegistrySetup\obj\Release\XenFxRegistrySetup.Properties.Resources.resources
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\XenFxRegistrySetup\obj\Release\GenerateResource.read.0.tlog
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\XenFxRegistrySetup\obj\Release\GenerateResource.write.0.tlog
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\XenFxRegistrySetup\obj\Release\XenFxRegistrySetup.exe
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\XenFxRegistrySetup\obj\Release\XenFxRegistrySetup.pdb

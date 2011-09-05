@@ -1,5 +1,0 @@
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xen.Ex.ModelImporter\Xen.Ex.ModelImporter.dll
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xen.Ex.ModelImporter\Xen.Ex.ModelImporter.pdb
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Ex.ModelImporter\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Ex.ModelImporter\obj\Debug\Xen.Ex.ModelImporter.dll
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Ex.ModelImporter\obj\Debug\Xen.Ex.ModelImporter.pdb

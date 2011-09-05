@@ -1,7 +1,0 @@
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\x86\Debug\Xen.xml
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\x86\Debug\Xen.dll
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\x86\Debug\Xen.pdb
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen\obj\x86\Debug\Xen.dll
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen\obj\x86\Debug\Xen.pdb

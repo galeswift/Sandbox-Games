@@ -1,2 +1,0 @@
-C:\Users\kmiron\Downloads\shadows2D\Shadows2D\Shadows2DContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Keith\Dropbox\Sandbox Games\shadows2D\Shadows2D\Shadows2DContent\obj\x86\Debug\ResolveAssemblyReference.cache

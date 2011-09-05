@@ -1,5 +1,0 @@
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\bin\NetGore.Features.Client.dll
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\bin\NetGore.Features.Client.pdb
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Features.Client\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Features.Client\obj\x86\Debug\NetGore.Features.Client.dll
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Features.Client\obj\x86\Debug\NetGore.Features.Client.pdb

@@ -1,6 +1,0 @@
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem.EffectCompiler.dll
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem.EffectCompiler.pdb
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem.EffectCompiler\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem.EffectCompiler\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem.EffectCompiler\obj\x86\Debug\Xen.Graphics.ShaderSystem.EffectCompiler.dll
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem.EffectCompiler\obj\x86\Debug\Xen.Graphics.ShaderSystem.EffectCompiler.pdb

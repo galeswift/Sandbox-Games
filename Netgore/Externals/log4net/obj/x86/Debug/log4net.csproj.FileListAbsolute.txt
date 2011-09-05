@@ -1,5 +1,0 @@
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\Externals\log4net\bin\x86\Debug\log4net.dll
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\Externals\log4net\bin\x86\Debug\log4net.pdb
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\Externals\log4net\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\Externals\log4net\obj\x86\Debug\log4net.dll
-C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\Externals\log4net\obj\x86\Debug\log4net.pdb

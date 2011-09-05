@@ -1,2 +1,0 @@
-﻿SFML 2.0, Revision 1769
-January 5, 2010

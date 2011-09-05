@@ -1,6 +1,0 @@
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xen.Ex.ParticleSystemImporter\particlesystem.xsd
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xen.Ex.ParticleSystemImporter\Xen.Ex.ParticleSystemImporter.dll
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xen.Ex.ParticleSystemImporter\Xen.Ex.ParticleSystemImporter.pdb
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Ex.ParticleSystem\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Ex.ParticleSystem\obj\Debug\Xen.Ex.ParticleSystemImporter.dll
-C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Ex.ParticleSystem\obj\Debug\Xen.Ex.ParticleSystemImporter.pdb
