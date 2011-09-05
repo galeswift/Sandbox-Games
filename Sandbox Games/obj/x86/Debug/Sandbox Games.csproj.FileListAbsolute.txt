@@ -1,0 +1,16 @@
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Debug\Sandbox Games.exe
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Debug\Sandbox Games.pdb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Debug\Sandbox Games.exe
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Debug\Sandbox Games.pdb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Debug\Content\Sprites\Circle.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Debug\Content\MainFont.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Debug\Content\Sprites\Circle.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Debug\Content\MainFont.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Debug\Sandbox Games.exe
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Debug\Sandbox Games.pdb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Debug\Sandbox Games.exe
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Debug\Sandbox Games.pdb

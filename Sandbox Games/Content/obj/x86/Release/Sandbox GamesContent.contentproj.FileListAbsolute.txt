@@ -1,0 +1,2 @@
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\Content\obj\x86\Release\ResolveAssemblyReference.cache

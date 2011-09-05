@@ -1,0 +1,5 @@
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame\bin\DemoGame.dll
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame\bin\DemoGame.pdb
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame\obj\x86\Debug\DemoGame.dll
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame\obj\x86\Debug\DemoGame.pdb

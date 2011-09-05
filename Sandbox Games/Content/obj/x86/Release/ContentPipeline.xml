@@ -1,0 +1,746 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MainFont.spritefont</Source>
+      <Name>MainFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\MainFont.xnb</Output>
+      <Time>2010-05-26T23:48:25.529-07:00</Time>
+    </Item>
+    <Item>
+      <Source>KootenayFont.spritefont</Source>
+      <Name>KootenayFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\KootenayFont.xnb</Output>
+      <Time>2010-06-02T10:20:17.6074704-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Circle.png</Source>
+      <Name>Sprites\Circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\Circle.xnb</Output>
+      <Time>2010-05-27T16:22:43.5115314-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\field.tga</Source>
+      <Name>Sprites\field</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\field.xnb</Output>
+      <Time>2009-09-11T19:14:51.069-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\square.tga</Source>
+      <Name>Sprites\square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\square.xnb</Output>
+      <Time>2009-09-11T18:38:04.785-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\noImage.tga</Source>
+      <Name>Sprites\noImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\noImage.xnb</Output>
+      <Time>2011-06-03T14:04:15-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\explosion.png</Source>
+      <Name>Sprites\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\explosion.xnb</Output>
+      <Time>2010-09-13T11:40:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\smoke.bmp</Source>
+      <Name>Sprites\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\smoke.xnb</Output>
+      <Time>2010-09-13T11:40:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\fieldBorder.tga</Source>
+      <Name>Sprites\fieldBorder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\fieldBorder.xnb</Output>
+      <Time>2011-06-04T23:57:12.1002-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\tile.JPG</Source>
+      <Name>Sprites\tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\tile.xnb</Output>
+      <Time>2010-07-11T09:48:06-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\fieldBorderFilled.tga</Source>
+      <Name>Sprites\fieldBorderFilled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\fieldBorderFilled.xnb</Output>
+      <Time>2011-06-05T22:46:37.9092-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank1\2791_NoiseCollector_CRASH.wav</Source>
+      <Name>Audio\Bank1\2791_NoiseCollector_CRASH</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2791_NoiseCollector_CRASH.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank1\2792_NoiseCollector_CRASH2.wav</Source>
+      <Name>Audio\Bank1\2792_NoiseCollector_CRASH2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2792_NoiseCollector_CRASH2.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank1\2793_NoiseCollector_HIHAT.wav</Source>
+      <Name>Audio\Bank1\2793_NoiseCollector_HIHAT</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2793_NoiseCollector_HIHAT.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank1\2794_NoiseCollector_KICK.wav</Source>
+      <Name>Audio\Bank1\2794_NoiseCollector_KICK</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2794_NoiseCollector_KICK.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank1\2795_NoiseCollector_KICK2.wav</Source>
+      <Name>Audio\Bank1\2795_NoiseCollector_KICK2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2795_NoiseCollector_KICK2.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank1\2796_NoiseCollector_KICKDOUBLE.wav</Source>
+      <Name>Audio\Bank1\2796_NoiseCollector_KICKDOUBLE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2796_NoiseCollector_KICKDOUBLE.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank1\2797_NoiseCollector_RIDE.wav</Source>
+      <Name>Audio\Bank1\2797_NoiseCollector_RIDE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2797_NoiseCollector_RIDE.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank1\2798_NoiseCollector_RIDE2.wav</Source>
+      <Name>Audio\Bank1\2798_NoiseCollector_RIDE2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2798_NoiseCollector_RIDE2.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank1\2799_NoiseCollector_ROTO.wav</Source>
+      <Name>Audio\Bank1\2799_NoiseCollector_ROTO</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2799_NoiseCollector_ROTO.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank1\2800_NoiseCollector_ROTORIM.wav</Source>
+      <Name>Audio\Bank1\2800_NoiseCollector_ROTORIM</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2800_NoiseCollector_ROTORIM.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank1\2801_NoiseCollector_SNARE.wav</Source>
+      <Name>Audio\Bank1\2801_NoiseCollector_SNARE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2801_NoiseCollector_SNARE.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank1\2802_NoiseCollector_SNARE2.wav</Source>
+      <Name>Audio\Bank1\2802_NoiseCollector_SNARE2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2802_NoiseCollector_SNARE2.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank3\2803_NoiseCollector_SNARE3.wav</Source>
+      <Name>Audio\Bank3\2803_NoiseCollector_SNARE3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2803_NoiseCollector_SNARE3.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank3\2804_NoiseCollector_SNARE4.wav</Source>
+      <Name>Audio\Bank3\2804_NoiseCollector_SNARE4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2804_NoiseCollector_SNARE4.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank3\2805_NoiseCollector_STICK.wav</Source>
+      <Name>Audio\Bank3\2805_NoiseCollector_STICK</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2805_NoiseCollector_STICK.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\2806_NoiseCollector_TOMS.wav</Source>
+      <Name>Audio\Bank2\2806_NoiseCollector_TOMS</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2806_NoiseCollector_TOMS.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\2807_NoiseCollector_TOMS2.wav</Source>
+      <Name>Audio\Bank2\2807_NoiseCollector_TOMS2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2807_NoiseCollector_TOMS2.xnb</Output>
+      <Time>2006-01-30T16:45:02-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank3\421_TicTacShutUp_prac_hat_2.wav</Source>
+      <Name>Audio\Bank3\421_TicTacShutUp_prac_hat_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\421_TicTacShutUp_prac_hat_2.xnb</Output>
+      <Time>2010-05-27T23:36:42.006-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\429_TicTacShutUp_prac_perc_1.wav</Source>
+      <Name>Audio\Bank2\429_TicTacShutUp_prac_perc_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\429_TicTacShutUp_prac_perc_1.xnb</Output>
+      <Time>2010-05-27T23:36:43.231-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank3\428_TicTacShutUp_prac_kick.wav</Source>
+      <Name>Audio\Bank3\428_TicTacShutUp_prac_kick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\428_TicTacShutUp_prac_kick.xnb</Output>
+      <Time>2010-05-27T23:36:42.744-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\427_TicTacShutUp_prac_kick_light.wav</Source>
+      <Name>Audio\Bank2\427_TicTacShutUp_prac_kick_light</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\427_TicTacShutUp_prac_kick_light.xnb</Output>
+      <Time>2010-05-27T23:36:42.359-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank3\439_TicTacShutUp_prac_snare_2.wav</Source>
+      <Name>Audio\Bank3\439_TicTacShutUp_prac_snare_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\439_TicTacShutUp_prac_snare_2.xnb</Output>
+      <Time>2010-05-27T23:36:41.537-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\422_TicTacShutUp_prac_hat_3.wav</Source>
+      <Name>Audio\Bank2\422_TicTacShutUp_prac_hat_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\422_TicTacShutUp_prac_hat_3.xnb</Output>
+      <Time>2010-05-27T23:36:42.011-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank3\423_TicTacShutUp_prac_hat_open_2.wav</Source>
+      <Name>Audio\Bank3\423_TicTacShutUp_prac_hat_open_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\423_TicTacShutUp_prac_hat_open_2.xnb</Output>
+      <Time>2010-05-27T23:36:42.017-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\424_TicTacShutUp_prac_hat_open_3.wav</Source>
+      <Name>Audio\Bank2\424_TicTacShutUp_prac_hat_open_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\424_TicTacShutUp_prac_hat_open_3.xnb</Output>
+      <Time>2010-05-27T23:36:42.022-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\425_TicTacShutUp_prac_hat_open.wav</Source>
+      <Name>Audio\Bank2\425_TicTacShutUp_prac_hat_open</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\425_TicTacShutUp_prac_hat_open.xnb</Output>
+      <Time>2010-05-27T23:36:42.027-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\426_TicTacShutUp_prac_hat.wav</Source>
+      <Name>Audio\Bank2\426_TicTacShutUp_prac_hat</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\426_TicTacShutUp_prac_hat.xnb</Output>
+      <Time>2010-05-27T23:36:42.032-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank3\430_TicTacShutUp_prac_perc_2.wav</Source>
+      <Name>Audio\Bank3\430_TicTacShutUp_prac_perc_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\430_TicTacShutUp_prac_perc_2.xnb</Output>
+      <Time>2010-05-27T23:36:43.235-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\431_TicTacShutUp_prac_perc_3.wav</Source>
+      <Name>Audio\Bank2\431_TicTacShutUp_prac_perc_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\431_TicTacShutUp_prac_perc_3.xnb</Output>
+      <Time>2010-05-27T23:36:43.244-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank3\432_TicTacShutUp_prac_perc_4.wav</Source>
+      <Name>Audio\Bank3\432_TicTacShutUp_prac_perc_4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\432_TicTacShutUp_prac_perc_4.xnb</Output>
+      <Time>2010-05-27T23:36:43.253-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\433_TicTacShutUp_prac_perc_5.wav</Source>
+      <Name>Audio\Bank2\433_TicTacShutUp_prac_perc_5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\433_TicTacShutUp_prac_perc_5.xnb</Output>
+      <Time>2010-05-27T23:36:43.258-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\434_TicTacShutUp_prac_ride_bell_loud.wav</Source>
+      <Name>Audio\Bank2\434_TicTacShutUp_prac_ride_bell_loud</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\434_TicTacShutUp_prac_ride_bell_loud.xnb</Output>
+      <Time>2010-05-27T23:36:43.267-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\435_TicTacShutUp_prac_ride_bell.wav</Source>
+      <Name>Audio\Bank2\435_TicTacShutUp_prac_ride_bell</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\435_TicTacShutUp_prac_ride_bell.xnb</Output>
+      <Time>2010-05-27T23:36:43.275-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank3\436_TicTacShutUp_prac_ride.wav</Source>
+      <Name>Audio\Bank3\436_TicTacShutUp_prac_ride</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\436_TicTacShutUp_prac_ride.xnb</Output>
+      <Time>2010-05-27T23:36:43.285-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\437_TicTacShutUp_prac_sidestick_2.wav</Source>
+      <Name>Audio\Bank2\437_TicTacShutUp_prac_sidestick_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\437_TicTacShutUp_prac_sidestick_2.xnb</Output>
+      <Time>2010-05-27T23:36:43.291-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\438_TicTacShutUp_prac_sidestick.wav</Source>
+      <Name>Audio\Bank2\438_TicTacShutUp_prac_sidestick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\438_TicTacShutUp_prac_sidestick.xnb</Output>
+      <Time>2010-05-27T23:36:40.321-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\440_TicTacShutUp_prac_snare_off.wav</Source>
+      <Name>Audio\Bank2\440_TicTacShutUp_prac_snare_off</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\440_TicTacShutUp_prac_snare_off.xnb</Output>
+      <Time>2010-05-27T23:36:41.541-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\441_TicTacShutUp_prac_snare_rim.wav</Source>
+      <Name>Audio\Bank2\441_TicTacShutUp_prac_snare_rim</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\441_TicTacShutUp_prac_snare_rim.xnb</Output>
+      <Time>2010-05-27T23:36:41.545-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\442_TicTacShutUp_prac_snare_rimshot_2.wav</Source>
+      <Name>Audio\Bank2\442_TicTacShutUp_prac_snare_rimshot_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\442_TicTacShutUp_prac_snare_rimshot_2.xnb</Output>
+      <Time>2010-05-27T23:36:41.552-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\443_TicTacShutUp_prac_snare_rimshot.wav</Source>
+      <Name>Audio\Bank2\443_TicTacShutUp_prac_snare_rimshot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\443_TicTacShutUp_prac_snare_rimshot.xnb</Output>
+      <Time>2010-05-27T23:36:41.557-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank3\444_TicTacShutUp_prac_snare_roll_short_2.wav</Source>
+      <Name>Audio\Bank3\444_TicTacShutUp_prac_snare_roll_short_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\444_TicTacShutUp_prac_snare_roll_short_2.xnb</Output>
+      <Time>2010-05-27T23:36:41.562-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\445_TicTacShutUp_prac_snare_roll_short.wav</Source>
+      <Name>Audio\Bank2\445_TicTacShutUp_prac_snare_roll_short</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\445_TicTacShutUp_prac_snare_roll_short.xnb</Output>
+      <Time>2010-05-27T23:36:41.567-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\446_TicTacShutUp_prac_snare_roll.wav</Source>
+      <Name>Audio\Bank2\446_TicTacShutUp_prac_snare_roll</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\446_TicTacShutUp_prac_snare_roll.xnb</Output>
+      <Time>2010-05-27T23:36:41.572-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\447_TicTacShutUp_prac_snare.wav</Source>
+      <Name>Audio\Bank2\447_TicTacShutUp_prac_snare</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\447_TicTacShutUp_prac_snare.xnb</Output>
+      <Time>2010-05-27T23:36:41.577-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank3\448_TicTacShutUp_prac_tom_light.wav</Source>
+      <Name>Audio\Bank3\448_TicTacShutUp_prac_tom_light</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\448_TicTacShutUp_prac_tom_light.xnb</Output>
+      <Time>2010-05-27T23:36:41.582-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bank2\449_TicTacShutUp_prac_tom.wav</Source>
+      <Name>Audio\Bank2\449_TicTacShutUp_prac_tom</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\449_TicTacShutUp_prac_tom.xnb</Output>
+      <Time>2010-05-27T23:36:41.589-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Tetris\Tetris_Rotate.wav</Source>
+      <Name>Audio\Tetris\Tetris_Rotate</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_Rotate.xnb</Output>
+      <Time>2011-06-05T15:27:08.3947-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Tetris\Tetris_Drop.wav</Source>
+      <Name>Audio\Tetris\Tetris_Drop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_Drop.xnb</Output>
+      <Time>2011-06-05T01:03:50.0972-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Tetris\Tetris_Clear.wav</Source>
+      <Name>Audio\Tetris\Tetris_Clear</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_Clear.xnb</Output>
+      <Time>2011-06-05T01:05:19.6932-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\BasicShader.fx</Source>
+      <Name>Shaders\BasicShader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\BasicShader.xnb</Output>
+      <Time>2011-06-03T10:43:41-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\VertexLighting.fx</Source>
+      <Name>Shaders\VertexLighting</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\VertexLighting.xnb</Output>
+      <Time>2010-05-29T13:13:35.2976-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Fractals.fx</Source>
+      <Name>Shaders\Fractals</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\Fractals.xnb</Output>
+      <Time>2011-04-30T16:34:24.36-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\SpriteBatch.fx</Source>
+      <Name>Shaders\SpriteBatch</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\SpriteBatch.xnb</Output>
+      <Time>2011-06-03T10:43:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\PerPixelLighting.fx</Source>
+      <Name>Shaders\PerPixelLighting</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\PerPixelLighting.xnb</Output>
+      <Time>2011-06-03T10:44:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\BloomCombine.fx</Source>
+      <Name>Shaders\BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\BloomCombine.xnb</Output>
+      <Time>2010-09-15T11:23:06-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\BloomExtract.fx</Source>
+      <Name>Shaders\BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\BloomExtract.xnb</Output>
+      <Time>2010-09-15T11:23:06-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\GaussianBlur.fx</Source>
+      <Name>Shaders\GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\GaussianBlur.xnb</Output>
+      <Time>2010-09-15T11:23:06-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\reductionEffect.fx</Source>
+      <Name>Shaders\reductionEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\reductionEffect.xnb</Output>
+      <Time>2010-07-11T09:48:06-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\resolveShadowsEffect.fx</Source>
+      <Name>Shaders\resolveShadowsEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\resolveShadowsEffect.xnb</Output>
+      <Time>2011-06-05T23:43:46.5642-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Meshes\Cone.fbx</Source>
+      <Name>Meshes\Cone</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Meshes\Cone.xnb</Output>
+      <Time>2008-07-08T12:00:14-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Meshes\Cone_0.xml</Key>
+        <Value>2011-06-07T18:12:45.877-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Meshes\WeirdObject.X</Source>
+      <Name>Meshes\WeirdObject</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Meshes\WeirdObject.xnb</Output>
+      <Time>2009-03-23T15:41:29.8513019-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Meshes\WeirdObject_0.xml</Key>
+        <Value>2011-06-07T18:12:47.251-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Audio\Tetris\Tetris_MainTheme.mp3</Source>
+      <Name>Audio\Tetris\Tetris_MainTheme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme.xnb</Output>
+      <Extra>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme.wma</Extra>
+      <Time>2011-06-05T01:13:17.0342-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Tetris\Tetris_MainTheme2.mp3</Source>
+      <Name>Audio\Tetris\Tetris_MainTheme2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme2.xnb</Output>
+      <Extra>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme2.wma</Extra>
+      <Time>2011-06-05T01:17:31.6632-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Tetris\Tetris_MainTheme3.mp3</Source>
+      <Name>Audio\Tetris\Tetris_MainTheme3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme3.xnb</Output>
+      <Extra>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme3.wma</Extra>
+      <Time>2011-06-05T01:18:00.3172-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Meshes\Cone.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Meshes\Cone_0.xml</Output>
+      <Time>2008-07-08T12:00:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Meshes\WeirdObject.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Meshes\WeirdObject_0.xml</Output>
+      <Time>2009-03-23T15:41:29.8513019-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-06-03T18:30:14.7152-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

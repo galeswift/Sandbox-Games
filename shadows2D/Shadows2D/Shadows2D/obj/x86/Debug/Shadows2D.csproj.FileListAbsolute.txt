@@ -1,0 +1,24 @@
+C:\Users\kmiron\Downloads\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Content\reductionEffect.xnb
+C:\Users\kmiron\Downloads\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Content\resolveShadowsEffect.xnb
+C:\Users\kmiron\Downloads\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Content\cat4.xnb
+C:\Users\kmiron\Downloads\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Content\catWalk.xnb
+C:\Users\kmiron\Downloads\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Content\dot.xnb
+C:\Users\kmiron\Downloads\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Content\tile.xnb
+C:\Users\kmiron\Downloads\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Shadows2D.exe
+C:\Users\kmiron\Downloads\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Shadows2D.pdb
+C:\Users\kmiron\Downloads\shadows2D\Shadows2D\Shadows2D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kmiron\Downloads\shadows2D\Shadows2D\Shadows2D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kmiron\Downloads\shadows2D\Shadows2D\Shadows2D\obj\x86\Debug\Shadows2D.exe
+C:\Users\kmiron\Downloads\shadows2D\Shadows2D\Shadows2D\obj\x86\Debug\Shadows2D.pdb
+C:\Users\Keith\Dropbox\Sandbox Games\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Content\reductionEffect.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Content\resolveShadowsEffect.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Content\cat4.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Content\catWalk.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Content\dot.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Content\tile.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Shadows2D.exe
+C:\Users\Keith\Dropbox\Sandbox Games\shadows2D\Shadows2D\Shadows2D\bin\x86\Debug\Shadows2D.pdb
+C:\Users\Keith\Dropbox\Sandbox Games\shadows2D\Shadows2D\Shadows2D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Keith\Dropbox\Sandbox Games\shadows2D\Shadows2D\Shadows2D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Keith\Dropbox\Sandbox Games\shadows2D\Shadows2D\Shadows2D\obj\x86\Debug\Shadows2D.exe
+C:\Users\Keith\Dropbox\Sandbox Games\shadows2D\Shadows2D\Shadows2D\obj\x86\Debug\Shadows2D.pdb

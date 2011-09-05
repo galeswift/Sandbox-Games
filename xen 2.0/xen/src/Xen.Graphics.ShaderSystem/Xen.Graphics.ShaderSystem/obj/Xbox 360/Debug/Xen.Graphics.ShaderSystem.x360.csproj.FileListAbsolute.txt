@@ -1,0 +1,7 @@
+C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xbox 360\Xen.Graphics.ShaderSystem.XML
+C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xbox 360\Xen.Graphics.ShaderSystem.dll
+C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xbox 360\Xen.Graphics.ShaderSystem.pdb
+C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem\obj\Xbox 360\Debug\Xen.Graphics.ShaderSystem.dll
+C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Graphics.ShaderSystem\Xen.Graphics.ShaderSystem\obj\Xbox 360\Debug\Xen.Graphics.ShaderSystem.pdb

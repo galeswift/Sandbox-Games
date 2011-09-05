@@ -1,0 +1,11 @@
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame.Client\bin\csfml-audio-2.dll
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame.Client\bin\csfml-graphics-2.dll
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame.Client\bin\csfml-window-2.dll
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame.Client\bin\libsndfile-1.dll
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame.Client\bin\openal32.dll
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame.Client\bin\DemoGame.GUITester.exe.config
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame.Client\bin\DemoGame.GUITester.exe
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame.Client\bin\DemoGame.GUITester.pdb
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame.GUITester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame.GUITester\obj\x86\Debug\DemoGame.GUITester.exe
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\DemoGame.GUITester\obj\x86\Debug\DemoGame.GUITester.pdb

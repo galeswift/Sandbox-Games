@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flixel", "Flixel.csproj", "{B6226E5B-0D40-4797-BC74-F55FCE683CC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6226E5B-0D40-4797-BC74-F55FCE683CC8}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{B6226E5B-0D40-4797-BC74-F55FCE683CC8}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{B6226E5B-0D40-4797-BC74-F55FCE683CC8}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{B6226E5B-0D40-4797-BC74-F55FCE683CC8}.Release|Xbox 360.Build.0 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

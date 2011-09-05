@@ -1,0 +1,6 @@
+C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xbox 360\Debug\Xen.Logo.dll
+C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\bin\Xbox 360\Debug\Xen.Logo.pdb
+C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Logo\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Logo\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Logo\obj\Xbox 360\Debug\Xen.Logo.dll
+C:\Users\Keith\Dropbox\Sandbox Games\xen 2.0\xen\src\Xen.Logo\obj\Xbox 360\Debug\Xen.Logo.pdb

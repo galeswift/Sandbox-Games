@@ -1,0 +1,16 @@
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\bin\NetGore.Editor.dll
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\bin\NetGore.Editor.pdb
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\NetGore.Editor.Docking.Resources.resources
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\NetGore.Editor.Docking.Strings.resources
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\NetGore.Editor.Grhs.GrhDataUpdaterProgressForm.resources
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\NetGore.Editor.Grhs.EditGrhForm.resources
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\NetGore.Editor.Grhs.MissingTexturesForm.resources
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\NetGore.Editor.UI.GrhUITypeEditorForm.resources
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\NetGore.Editor.Properties.Resources.resources
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\NetGore.Editor.UI.UITypeEditorListForm.resources
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\NetGore.Editor.UI.EntityTypeUITypeEditorForm.resources
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\NetGore.Editor.dll
+C:\Users\kmiron\Dropbox\Sandbox Games\Netgore\NetGore.Editor\obj\x86\Debug\NetGore.Editor.pdb

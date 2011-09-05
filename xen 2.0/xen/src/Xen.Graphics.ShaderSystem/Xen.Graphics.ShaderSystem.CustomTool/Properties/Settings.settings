@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Xen.Graphics.ShaderSystem.CustomTool.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultCompilerDirectives" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#if {0}
+#else
+#endif</Value>
+    </Setting>
+    <Setting Name="VBCompilerDirectives" Type="System.String" Scope="User">
+      <Value Profile="(Default)">*.vb
+#If {0}
+#Else
+#End If</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

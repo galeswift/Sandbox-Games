@@ -1,0 +1,6 @@
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\Content\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Sandbox Games\Sandbox Games\Content\obj\x86\Release\ResolveAssemblyReference.cache
+L:\Sandbox Games\Sandbox Games\Content\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Sandbox Games\Sandbox Games\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\Content\obj\x86\Release\ResolveAssemblyReference.cache

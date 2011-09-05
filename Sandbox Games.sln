@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox Games", "Sandbox Games\Sandbox Games.csproj", "{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox GamesContent", "Sandbox Games\Content\Sandbox GamesContent.contentproj", "{8DC84572-5A52-4BE1-BC24-2903BF25E3AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Debug|Xbox 360 = Debug|Xbox 360
+		ParticleForce|Mixed Platforms = ParticleForce|Mixed Platforms
+		ParticleForce|x86 = ParticleForce|x86
+		ParticleForce|Xbox 360 = ParticleForce|Xbox 360
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.Debug|x86.ActiveCfg = Debug|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.Debug|x86.Build.0 = Debug|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.Debug|Xbox 360.Build.0 = Debug|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.ParticleForce|Mixed Platforms.ActiveCfg = ParticleForce|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.ParticleForce|Mixed Platforms.Build.0 = ParticleForce|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.ParticleForce|x86.ActiveCfg = ParticleForce|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.ParticleForce|x86.Build.0 = ParticleForce|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.ParticleForce|Xbox 360.ActiveCfg = ParticleForce|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.ParticleForce|Xbox 360.Build.0 = ParticleForce|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.Release|x86.ActiveCfg = Release|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.Release|x86.Build.0 = Release|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.Release|Xbox 360.ActiveCfg = Release|x86
+		{E09FEB30-9B9F-4A63-BD80-2A6BEF510768}.Release|Xbox 360.Build.0 = Release|x86
+		{8DC84572-5A52-4BE1-BC24-2903BF25E3AC}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{8DC84572-5A52-4BE1-BC24-2903BF25E3AC}.Debug|x86.ActiveCfg = Debug|x86
+		{8DC84572-5A52-4BE1-BC24-2903BF25E3AC}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{8DC84572-5A52-4BE1-BC24-2903BF25E3AC}.ParticleForce|Mixed Platforms.ActiveCfg = ParticleForce|x86
+		{8DC84572-5A52-4BE1-BC24-2903BF25E3AC}.ParticleForce|x86.ActiveCfg = ParticleForce|x86
+		{8DC84572-5A52-4BE1-BC24-2903BF25E3AC}.ParticleForce|Xbox 360.ActiveCfg = ParticleForce|x86
+		{8DC84572-5A52-4BE1-BC24-2903BF25E3AC}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{8DC84572-5A52-4BE1-BC24-2903BF25E3AC}.Release|x86.ActiveCfg = Release|x86
+		{8DC84572-5A52-4BE1-BC24-2903BF25E3AC}.Release|Xbox 360.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

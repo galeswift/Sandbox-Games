@@ -1,0 +1,483 @@
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\Circle.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\MainFont.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.exe
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.pdb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.exe
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.pdb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\MainFont.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\Circle.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.exe
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.pdb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.exe
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.pdb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2791_NoiseCollector_CRASH.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2792_NoiseCollector_CRASH2.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2793_NoiseCollector_HIHAT.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2794_NoiseCollector_KICK.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2795_NoiseCollector_KICK2.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2796_NoiseCollector_KICKDOUBLE.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2797_NoiseCollector_RIDE.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2798_NoiseCollector_RIDE2.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2799_NoiseCollector_ROTO.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2800_NoiseCollector_ROTORIM.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2801_NoiseCollector_SNARE.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2802_NoiseCollector_SNARE2.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2806_NoiseCollector_TOMS.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2807_NoiseCollector_TOMS2.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\421_TicTacShutUp_prac_hat_2.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\428_TicTacShutUp_prac_kick.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\439_TicTacShutUp_prac_snare_2.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\423_TicTacShutUp_prac_hat_open_2.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\430_TicTacShutUp_prac_perc_2.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\432_TicTacShutUp_prac_perc_4.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\436_TicTacShutUp_prac_ride.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\444_TicTacShutUp_prac_snare_roll_short_2.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\448_TicTacShutUp_prac_tom_light.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2803_NoiseCollector_SNARE3.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2804_NoiseCollector_SNARE4.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2805_NoiseCollector_STICK.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\429_TicTacShutUp_prac_perc_1.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\427_TicTacShutUp_prac_kick_light.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\422_TicTacShutUp_prac_hat_3.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\424_TicTacShutUp_prac_hat_open_3.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\425_TicTacShutUp_prac_hat_open.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\426_TicTacShutUp_prac_hat.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\431_TicTacShutUp_prac_perc_3.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\433_TicTacShutUp_prac_perc_5.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\434_TicTacShutUp_prac_ride_bell_loud.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\435_TicTacShutUp_prac_ride_bell.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\437_TicTacShutUp_prac_sidestick_2.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\438_TicTacShutUp_prac_sidestick.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\440_TicTacShutUp_prac_snare_off.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\441_TicTacShutUp_prac_snare_rim.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\442_TicTacShutUp_prac_snare_rimshot_2.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\443_TicTacShutUp_prac_snare_rimshot.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\445_TicTacShutUp_prac_snare_roll_short.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\446_TicTacShutUp_prac_snare_roll.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\447_TicTacShutUp_prac_snare.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\449_TicTacShutUp_prac_tom.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2791_NoiseCollector_CRASH.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2792_NoiseCollector_CRASH2.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2793_NoiseCollector_HIHAT.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2794_NoiseCollector_KICK.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2795_NoiseCollector_KICK2.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2796_NoiseCollector_KICKDOUBLE.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2797_NoiseCollector_RIDE.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2798_NoiseCollector_RIDE2.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2799_NoiseCollector_ROTO.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2800_NoiseCollector_ROTORIM.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2801_NoiseCollector_SNARE.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2802_NoiseCollector_SNARE2.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2803_NoiseCollector_SNARE3.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2804_NoiseCollector_SNARE4.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2805_NoiseCollector_STICK.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2806_NoiseCollector_TOMS.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2807_NoiseCollector_TOMS2.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\421_TicTacShutUp_prac_hat_2.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\429_TicTacShutUp_prac_perc_1.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\428_TicTacShutUp_prac_kick.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\427_TicTacShutUp_prac_kick_light.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\439_TicTacShutUp_prac_snare_2.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\422_TicTacShutUp_prac_hat_3.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\423_TicTacShutUp_prac_hat_open_2.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\424_TicTacShutUp_prac_hat_open_3.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\425_TicTacShutUp_prac_hat_open.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\426_TicTacShutUp_prac_hat.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\430_TicTacShutUp_prac_perc_2.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\431_TicTacShutUp_prac_perc_3.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\432_TicTacShutUp_prac_perc_4.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\433_TicTacShutUp_prac_perc_5.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\434_TicTacShutUp_prac_ride_bell_loud.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\435_TicTacShutUp_prac_ride_bell.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\436_TicTacShutUp_prac_ride.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\437_TicTacShutUp_prac_sidestick_2.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\438_TicTacShutUp_prac_sidestick.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\440_TicTacShutUp_prac_snare_off.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\441_TicTacShutUp_prac_snare_rim.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\442_TicTacShutUp_prac_snare_rimshot_2.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\443_TicTacShutUp_prac_snare_rimshot.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\444_TicTacShutUp_prac_snare_roll_short_2.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\445_TicTacShutUp_prac_snare_roll_short.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\446_TicTacShutUp_prac_snare_roll.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\447_TicTacShutUp_prac_snare.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\448_TicTacShutUp_prac_tom_light.xnb
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\449_TicTacShutUp_prac_tom.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\MainFont.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\Circle.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2791_NoiseCollector_CRASH.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2792_NoiseCollector_CRASH2.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2793_NoiseCollector_HIHAT.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2794_NoiseCollector_KICK.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2795_NoiseCollector_KICK2.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2796_NoiseCollector_KICKDOUBLE.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2797_NoiseCollector_RIDE.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2798_NoiseCollector_RIDE2.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2799_NoiseCollector_ROTO.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2800_NoiseCollector_ROTORIM.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2801_NoiseCollector_SNARE.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2802_NoiseCollector_SNARE2.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2803_NoiseCollector_SNARE3.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2804_NoiseCollector_SNARE4.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2805_NoiseCollector_STICK.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2806_NoiseCollector_TOMS.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2807_NoiseCollector_TOMS2.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\421_TicTacShutUp_prac_hat_2.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\429_TicTacShutUp_prac_perc_1.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\428_TicTacShutUp_prac_kick.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\427_TicTacShutUp_prac_kick_light.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\439_TicTacShutUp_prac_snare_2.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\422_TicTacShutUp_prac_hat_3.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\423_TicTacShutUp_prac_hat_open_2.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\424_TicTacShutUp_prac_hat_open_3.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\425_TicTacShutUp_prac_hat_open.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\426_TicTacShutUp_prac_hat.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\430_TicTacShutUp_prac_perc_2.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\431_TicTacShutUp_prac_perc_3.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\432_TicTacShutUp_prac_perc_4.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\433_TicTacShutUp_prac_perc_5.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\434_TicTacShutUp_prac_ride_bell_loud.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\435_TicTacShutUp_prac_ride_bell.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\436_TicTacShutUp_prac_ride.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\437_TicTacShutUp_prac_sidestick_2.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\438_TicTacShutUp_prac_sidestick.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\440_TicTacShutUp_prac_snare_off.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\441_TicTacShutUp_prac_snare_rim.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\442_TicTacShutUp_prac_snare_rimshot_2.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\443_TicTacShutUp_prac_snare_rimshot.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\444_TicTacShutUp_prac_snare_roll_short_2.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\445_TicTacShutUp_prac_snare_roll_short.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\446_TicTacShutUp_prac_snare_roll.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\447_TicTacShutUp_prac_snare.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\448_TicTacShutUp_prac_tom_light.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\449_TicTacShutUp_prac_tom.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.exe
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.pdb
+E:\Sandbox Games\Sandbox Games\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Sandbox Games\Sandbox Games\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.exe
+E:\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.pdb
+L:\Sandbox Games\Sandbox Games\obj\x86\Release\ResolveAssemblyReference.cache
+L:\Sandbox Games\Sandbox Games\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+L:\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox_Games.Properties.Resources.resources
+L:\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.csproj.GenerateResource.Cache
+L:\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.exe
+L:\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.pdb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\MainFont.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\Circle.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2791_NoiseCollector_CRASH.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2792_NoiseCollector_CRASH2.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2793_NoiseCollector_HIHAT.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2794_NoiseCollector_KICK.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2795_NoiseCollector_KICK2.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2796_NoiseCollector_KICKDOUBLE.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2797_NoiseCollector_RIDE.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2798_NoiseCollector_RIDE2.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2799_NoiseCollector_ROTO.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2800_NoiseCollector_ROTORIM.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2801_NoiseCollector_SNARE.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2802_NoiseCollector_SNARE2.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2803_NoiseCollector_SNARE3.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2804_NoiseCollector_SNARE4.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2805_NoiseCollector_STICK.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2806_NoiseCollector_TOMS.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2807_NoiseCollector_TOMS2.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\421_TicTacShutUp_prac_hat_2.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\429_TicTacShutUp_prac_perc_1.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\428_TicTacShutUp_prac_kick.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\427_TicTacShutUp_prac_kick_light.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\439_TicTacShutUp_prac_snare_2.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\422_TicTacShutUp_prac_hat_3.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\423_TicTacShutUp_prac_hat_open_2.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\424_TicTacShutUp_prac_hat_open_3.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\425_TicTacShutUp_prac_hat_open.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\426_TicTacShutUp_prac_hat.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\430_TicTacShutUp_prac_perc_2.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\431_TicTacShutUp_prac_perc_3.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\432_TicTacShutUp_prac_perc_4.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\433_TicTacShutUp_prac_perc_5.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\434_TicTacShutUp_prac_ride_bell_loud.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\435_TicTacShutUp_prac_ride_bell.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\436_TicTacShutUp_prac_ride.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\437_TicTacShutUp_prac_sidestick_2.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\438_TicTacShutUp_prac_sidestick.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\440_TicTacShutUp_prac_snare_off.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\441_TicTacShutUp_prac_snare_rim.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\442_TicTacShutUp_prac_snare_rimshot_2.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\443_TicTacShutUp_prac_snare_rimshot.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\444_TicTacShutUp_prac_snare_roll_short_2.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\445_TicTacShutUp_prac_snare_roll_short.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\446_TicTacShutUp_prac_snare_roll.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\447_TicTacShutUp_prac_snare.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\448_TicTacShutUp_prac_tom_light.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\449_TicTacShutUp_prac_tom.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.exe
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.pdb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\BasicShader.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\VertexLighting.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Meshes\Cone.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\Fractals.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\MainFont.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\Circle.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2791_NoiseCollector_CRASH.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2792_NoiseCollector_CRASH2.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2793_NoiseCollector_HIHAT.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2794_NoiseCollector_KICK.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2795_NoiseCollector_KICK2.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2796_NoiseCollector_KICKDOUBLE.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2797_NoiseCollector_RIDE.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2798_NoiseCollector_RIDE2.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2799_NoiseCollector_ROTO.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2800_NoiseCollector_ROTORIM.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2801_NoiseCollector_SNARE.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2802_NoiseCollector_SNARE2.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2803_NoiseCollector_SNARE3.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2804_NoiseCollector_SNARE4.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2805_NoiseCollector_STICK.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2806_NoiseCollector_TOMS.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2807_NoiseCollector_TOMS2.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\421_TicTacShutUp_prac_hat_2.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\429_TicTacShutUp_prac_perc_1.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\428_TicTacShutUp_prac_kick.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\427_TicTacShutUp_prac_kick_light.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\439_TicTacShutUp_prac_snare_2.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\422_TicTacShutUp_prac_hat_3.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\423_TicTacShutUp_prac_hat_open_2.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\424_TicTacShutUp_prac_hat_open_3.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\425_TicTacShutUp_prac_hat_open.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\426_TicTacShutUp_prac_hat.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\430_TicTacShutUp_prac_perc_2.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\431_TicTacShutUp_prac_perc_3.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\432_TicTacShutUp_prac_perc_4.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\433_TicTacShutUp_prac_perc_5.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\434_TicTacShutUp_prac_ride_bell_loud.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\435_TicTacShutUp_prac_ride_bell.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\436_TicTacShutUp_prac_ride.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\437_TicTacShutUp_prac_sidestick_2.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\438_TicTacShutUp_prac_sidestick.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\440_TicTacShutUp_prac_snare_off.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\441_TicTacShutUp_prac_snare_rim.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\442_TicTacShutUp_prac_snare_rimshot_2.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\443_TicTacShutUp_prac_snare_rimshot.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\444_TicTacShutUp_prac_snare_roll_short_2.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\445_TicTacShutUp_prac_snare_roll_short.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\446_TicTacShutUp_prac_snare_roll.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\447_TicTacShutUp_prac_snare.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\448_TicTacShutUp_prac_tom_light.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\449_TicTacShutUp_prac_tom.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\BasicShader.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\VertexLighting.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\Fractals.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Meshes\Cone.xnb
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.exe
+D:\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.pdb
+D:\Sandbox Games\Sandbox Games\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Sandbox Games\Sandbox Games\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox_Games.Properties.Resources.resources
+D:\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.csproj.GenerateResource.Cache
+D:\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.exe
+D:\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.pdb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\SpriteBatch.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\PerPixelLighting.xnb
+L:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Meshes\WeirdObject.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\BasicShader.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\VertexLighting.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\Fractals.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\SpriteBatch.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\PerPixelLighting.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Meshes\Cone.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Meshes\WeirdObject.xnb
+E:\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox_Games.Properties.Resources.resources
+E:\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.csproj.GenerateResource.Cache
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\KootenayFont.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\field.xnb
+E:\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\square.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\KootenayFont.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\field.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\square.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\BasicShader.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\VertexLighting.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\Fractals.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\SpriteBatch.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\PerPixelLighting.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Meshes\Cone.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Meshes\WeirdObject.xnb
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox_Games.Properties.Resources.resources
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.csproj.GenerateResource.Cache
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\MainFont.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\KootenayFont.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\Circle.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\field.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\square.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2791_NoiseCollector_CRASH.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2792_NoiseCollector_CRASH2.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2793_NoiseCollector_HIHAT.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2794_NoiseCollector_KICK.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2795_NoiseCollector_KICK2.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2796_NoiseCollector_KICKDOUBLE.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2797_NoiseCollector_RIDE.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2798_NoiseCollector_RIDE2.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2799_NoiseCollector_ROTO.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2800_NoiseCollector_ROTORIM.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2801_NoiseCollector_SNARE.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2802_NoiseCollector_SNARE2.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2803_NoiseCollector_SNARE3.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2804_NoiseCollector_SNARE4.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2805_NoiseCollector_STICK.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2806_NoiseCollector_TOMS.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2807_NoiseCollector_TOMS2.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\421_TicTacShutUp_prac_hat_2.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\429_TicTacShutUp_prac_perc_1.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\428_TicTacShutUp_prac_kick.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\427_TicTacShutUp_prac_kick_light.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\439_TicTacShutUp_prac_snare_2.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\422_TicTacShutUp_prac_hat_3.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\423_TicTacShutUp_prac_hat_open_2.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\424_TicTacShutUp_prac_hat_open_3.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\425_TicTacShutUp_prac_hat_open.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\426_TicTacShutUp_prac_hat.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\430_TicTacShutUp_prac_perc_2.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\431_TicTacShutUp_prac_perc_3.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\432_TicTacShutUp_prac_perc_4.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\433_TicTacShutUp_prac_perc_5.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\434_TicTacShutUp_prac_ride_bell_loud.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\435_TicTacShutUp_prac_ride_bell.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\436_TicTacShutUp_prac_ride.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\437_TicTacShutUp_prac_sidestick_2.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\438_TicTacShutUp_prac_sidestick.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\440_TicTacShutUp_prac_snare_off.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\441_TicTacShutUp_prac_snare_rim.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\442_TicTacShutUp_prac_snare_rimshot_2.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\443_TicTacShutUp_prac_snare_rimshot.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\444_TicTacShutUp_prac_snare_roll_short_2.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\445_TicTacShutUp_prac_snare_roll_short.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\446_TicTacShutUp_prac_snare_roll.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\447_TicTacShutUp_prac_snare.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\448_TicTacShutUp_prac_tom_light.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\449_TicTacShutUp_prac_tom.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\BasicShader.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\VertexLighting.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\Fractals.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\SpriteBatch.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\PerPixelLighting.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Meshes\Cone.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Meshes\WeirdObject.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.exe
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.pdb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox_Games.Properties.Resources.resources
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.exe
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.pdb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\BloomCombine.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\BloomExtract.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\GaussianBlur.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.exe
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox Games.pdb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\Sandbox_Games.Properties.Resources.resources
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\MainFont.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\KootenayFont.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\Circle.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\field.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\square.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2791_NoiseCollector_CRASH.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2792_NoiseCollector_CRASH2.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2793_NoiseCollector_HIHAT.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2794_NoiseCollector_KICK.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2795_NoiseCollector_KICK2.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2796_NoiseCollector_KICKDOUBLE.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2797_NoiseCollector_RIDE.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2798_NoiseCollector_RIDE2.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2799_NoiseCollector_ROTO.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2800_NoiseCollector_ROTORIM.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2801_NoiseCollector_SNARE.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank1\2802_NoiseCollector_SNARE2.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2803_NoiseCollector_SNARE3.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2804_NoiseCollector_SNARE4.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\2805_NoiseCollector_STICK.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2806_NoiseCollector_TOMS.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\2807_NoiseCollector_TOMS2.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\421_TicTacShutUp_prac_hat_2.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\429_TicTacShutUp_prac_perc_1.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\428_TicTacShutUp_prac_kick.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\427_TicTacShutUp_prac_kick_light.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\439_TicTacShutUp_prac_snare_2.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\422_TicTacShutUp_prac_hat_3.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\423_TicTacShutUp_prac_hat_open_2.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\424_TicTacShutUp_prac_hat_open_3.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\425_TicTacShutUp_prac_hat_open.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\426_TicTacShutUp_prac_hat.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\430_TicTacShutUp_prac_perc_2.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\431_TicTacShutUp_prac_perc_3.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\432_TicTacShutUp_prac_perc_4.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\433_TicTacShutUp_prac_perc_5.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\434_TicTacShutUp_prac_ride_bell_loud.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\435_TicTacShutUp_prac_ride_bell.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\436_TicTacShutUp_prac_ride.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\437_TicTacShutUp_prac_sidestick_2.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\438_TicTacShutUp_prac_sidestick.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\440_TicTacShutUp_prac_snare_off.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\441_TicTacShutUp_prac_snare_rim.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\442_TicTacShutUp_prac_snare_rimshot_2.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\443_TicTacShutUp_prac_snare_rimshot.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\444_TicTacShutUp_prac_snare_roll_short_2.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\445_TicTacShutUp_prac_snare_roll_short.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\446_TicTacShutUp_prac_snare_roll.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\447_TicTacShutUp_prac_snare.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank3\448_TicTacShutUp_prac_tom_light.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Bank2\449_TicTacShutUp_prac_tom.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\BasicShader.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\VertexLighting.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\Fractals.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\SpriteBatch.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\PerPixelLighting.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\BloomCombine.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\BloomExtract.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\GaussianBlur.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Meshes\Cone.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Meshes\WeirdObject.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.exe
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Sandbox Games.pdb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\noImage.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\explosion.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\smoke.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\noImage.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\explosion.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\smoke.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\reductionEffect.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\resolveShadowsEffect.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\fieldBorder.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\tile.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_Rotate.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_Drop.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_Clear.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme.wma
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme2.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme3.xnb
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme2.wma
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme3.wma
+C:\Users\Keith\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\fieldBorderFilled.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\fieldBorder.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\tile.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Sprites\fieldBorderFilled.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_Rotate.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_Drop.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_Clear.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\reductionEffect.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Shaders\resolveShadowsEffect.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme2.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme3.xnb
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme.wma
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme2.wma
+C:\Users\kmiron\Dropbox\Sandbox Games\Sandbox Games\bin\x86\Release\Content\Audio\Tetris\Tetris_MainTheme3.wma

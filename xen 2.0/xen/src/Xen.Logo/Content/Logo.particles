@@ -1,0 +1,109 @@
+<?xml version ="1.0" encoding ="utf-8" standalone ="yes"?>
+<particlesystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:noNamespaceSchemaLocation="../../../bin/Xen.Ex.ParticleSystemImporter/particlesystem.xsd">
+
+	<system frame_rate="60hz">
+		<triggers>
+			<!-- allow enough for 480x170 particles -->
+			<trigger name="Fire" allocation_multiplier="81600">
+				<emit type="burst" life="6.5" life_variance="0.5"/>
+			</trigger>
+		</triggers>
+	</system>
+
+	<particle name="burst" blend="alpha" texture="logo480.png">
+		<logic>
+			<once>
+				<!--store the position, UV is stored in colour-->
+				<set target="user0" arg0="position.x"/>
+				<set target="user1" arg0="position.y"/>
+				
+				<!--poke the alpha-->
+				<set target="alpha" arg0="1"/>
+
+				<!--start in a random pos, based on globals-->
+				<rand_smooth target="position.x" arg0="global0" arg1="global1"/>
+				<rand_smooth target="position.y" arg0="global2" arg1="global3"/>
+
+				<!--random velocity, moving to +x-->
+				<rand_smooth target="velocity.x" arg0="-500" arg1="3000"/>
+				<rand_smooth target="velocity.y" arg0="-500" arg1="500"/>
+
+				<set target="alpha" arg0="0"/>
+				<set target="size" arg0="0.5"/>
+			</once>
+
+			<frame>
+
+				<!--work out difference between position and desired pos.. store in local-->
+				<sub target="local0" arg0="position.x" arg1="user0"/>
+				<sub target="local1" arg0="position.y" arg1="user1"/>
+				
+				<!--and scale by negative velocity-->
+				<madd target="velocity.x" arg0="local0" arg1="-0.15"/>
+				<madd target="velocity.y" arg0="local1" arg1="-0.15"/>
+
+				<!--yeah-->
+				<mul target="velocity.x" arg0="0.935"/>
+				<mul target="velocity.y" arg0="0.935"/>
+				
+				<!--fade in-->
+				<madd target="alpha" arg0="age" arg1="0.01"/>
+				
+				<!--if greater than 1 second old and not within 1 second of death-->
+				<sub target="local0" arg0="life" arg1="1"/>
+				<if_less arg0="age" arg1="local0">
+					<if_greater arg0="age" arg1="1">
+						
+						<!--sllllooowww down, the older it is-->
+						<sub target="local3" arg0="3" arg1="age"/>
+						<mul target="local3" arg0="0.5"/>
+						<mul target="velocity.x" arg0="local3"/>
+						<mul target="velocity.y" arg0="local3"/>
+						
+						<!-- as it gets older, gently average it toward the target pos -->
+						<mul target="position.x" arg0="local3"/>
+						<mul target="position.y" arg0="local3"/>
+						<sub target="local3" arg0="1.0005" arg1="local3"/>
+						<madd target="position.x" arg0="user0" arg1="local3"/>
+						<madd target="position.y" arg0="user1" arg1="local3"/>
+					</if_greater>
+					
+					<!--if older than 2 seconds, then lock it's position down to the target pos.-->
+					<if_greater arg0="age" arg1="2">
+						<set target="position.x" arg0="user0"/>
+						<set target="position.y" arg0="user1"/>
+						<set target="velocity.x" arg0="0"/>
+						<set target="velocity.y" arg0="0"/>
+					</if_greater>
+				</if_less>
+
+				<!--within 1 second of death...-->
+				<if_greater arg0="age" arg1="local0">
+
+					<!--how long into the last second of death..-->
+					<sub target="local2" arg0="age" arg1="local0"/>
+					
+					<!--go a bit mad in your old age-->
+					<rand target="local0" arg0="-50.0" arg1="140.0"/>
+					<rand target="local1" arg0="-125.0" arg1="125.0"/>
+
+					<madd target="local0" arg0="user0" arg1="-0.01"/>
+					<madd target="local1" arg0="user1" arg1="-0.01"/>
+
+					<mul target="local0" arg0="local2"/>
+					<mul target="local1" arg0="local2"/>
+					
+					<add target="velocity.x" arg0="local0"/>
+					<add target="velocity.y" arg0="local1"/>
+
+					<!--and fade out-->
+					<sub target="alpha" arg0="1" arg1="local2"/>
+					<mul target="alpha" arg0="alpha"/>
+					
+				</if_greater>
+			</frame>
+		</logic>
+	</particle>
+
+</particlesystem>

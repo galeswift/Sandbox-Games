@@ -1,0 +1,2 @@
+C:\Users\Keith\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kmiron\Documents\Visual Studio 2008\Projects\Sandbox Games\Sandbox Games\Content\obj\x86\Debug\ResolveAssemblyReference.cache

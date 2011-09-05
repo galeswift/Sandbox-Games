@@ -1,0 +1,62 @@
+[10] INFO  DemoGame.Client.Program - Starting client...
+[10] INFO  DemoGame.Client.Program - TryCopyContent succeeded
+[10] INFO  NetGore.Graphics.GameBase - Changing to windowed mode.
+[10] DEBUG NetGore.World.DynamicEntityFactoryBase - Loaded DynamicEntity `TeleportEntity` from Type `DemoGame.Client.TeleportEntity`.
+[10] DEBUG NetGore.World.DynamicEntityFactoryBase - Loaded DynamicEntity `Character` from Type `DemoGame.Client.Character`.
+[10] DEBUG NetGore.World.DynamicEntityFactoryBase - Loaded DynamicEntity `NPC` from Type `DemoGame.Client.NPC`.
+[10] DEBUG NetGore.World.DynamicEntityFactoryBase - Loaded DynamicEntity `ThralledNPC` from Type `DemoGame.Client.ThralledNPC`.
+[10] DEBUG NetGore.World.DynamicEntityFactoryBase - Loaded DynamicEntity `ItemEntity` from Type `DemoGame.Client.ItemEntity`.
+[10] DEBUG NetGore.World.DynamicEntityFactoryBase - Loaded DynamicEntity `NPCSpawnerNPC` from Type `DemoGame.Client.NPCSpawnerNPC`.
+[10] DEBUG NetGore.World.DynamicEntityFactoryBase - Loaded DynamicEntity `User` from Type `DemoGame.Client.User`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu button `Cancel`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu button `Accept`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `Sound (0 to 100):`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `Music (0 to 100):`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu button `Quit`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu button `Options`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu button `New Account`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu button `Login`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `Name:`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `Password:`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu button `Back`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu button `Login`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu button `Log out`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `1. `.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `X`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `unused`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `2. `.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `X`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `unused`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `3. `.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `X`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `unused`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `4. `.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `X`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `unused`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `5. `.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `X`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `unused`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `6. `.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `X`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `unused`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `7. `.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `X`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `unused`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `8. `.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `X`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `unused`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `9. `.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `X`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `unused`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu button `Back`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu button `Create character`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `Name:`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `Name:`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `Password:`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu label `Email:`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu button `Back`.
+[10] DEBUG DemoGame.Client.GameScreenHelper - Created menu button `Create Account`.
+[10] DEBUG NetGore.Network.ClientSocketManager - Debug message from `` on `DemoGame.Client.ClientSockets`: Socket bound to 0.0.0.0:64309: True
+[10] DEBUG NetGore.Network.ClientSocketManager - Debug message from `` on `DemoGame.Client.ClientSockets`: Network thread started
+[10] DEBUG NetGore.Network.ClientSocketManager - Socket `IPSocket - 127.0.0.1:44447` status changed to `InitiatedConnect`. Reason: Locally requested connect
+[10] DEBUG NetGore.Network.ClientSocketManager - Debug message from `` on `DemoGame.Client.ClientSockets`: Resending Connect...

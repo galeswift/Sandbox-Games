@@ -1,0 +1,6 @@
+C:\Users\Keith\Dropbox\Sandbox Games\Flixel\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Keith\Dropbox\Sandbox Games\Flixel\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Keith\Dropbox\Sandbox Games\Flixel\bin\Xbox 360\Debug\Flixel.dll
+C:\Users\Keith\Dropbox\Sandbox Games\Flixel\bin\Xbox 360\Debug\Flixel.pdb
+C:\Users\Keith\Dropbox\Sandbox Games\Flixel\obj\Xbox 360\Debug\Flixel.dll
+C:\Users\Keith\Dropbox\Sandbox Games\Flixel\obj\Xbox 360\Debug\Flixel.pdb
